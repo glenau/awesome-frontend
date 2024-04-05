@@ -1,0 +1,23 @@
+{
+    "name": "awesome-frontend",
+    "version": "0.0.1",
+    "description": "CLI tool for creating a frontend",
+    "author": "Gleb Naumov <glenaudev@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/glenau/awesome-frontend#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/glenau/awesome-frontend.git"
+    },
+    "bugs": {
+        "url": "https://github.com/glenau/awesome-frontend/issues"
+    },
+    "main": "bin/cli.js",
+    "bin": {
+        "awesome-frontend": "bin/cli.js"
+    },
+    "engines": {
+        "node": ">=20"
+    },
+    "type": "module"
+}
