@@ -1,6 +1,6 @@
 {
     "name": "awesome-frontend",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "CLI tool for creating a frontend",
     "author": "Gleb Naumov <glenaudev@gmail.com>",
     "license": "MIT",
@@ -19,5 +19,10 @@
     "engines": {
         "node": ">=20"
     },
-    "type": "module"
+    "type": "module",
+    "files": [
+        "bin/",
+        "LICENSE",
+        "README.md"
+    ]
 }
