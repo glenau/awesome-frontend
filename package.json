@@ -1,6 +1,6 @@
 {
     "name": "awesome-frontend",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "CLI tool for creating a frontend",
     "author": "Gleb Naumov <glenaudev@gmail.com>",
     "license": "MIT",
